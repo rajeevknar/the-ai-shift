@@ -1,7 +1,8 @@
+
 🤔 What Is This?
 This is not a list of AI experiments or research demos.
 Every tool in this repo has been built to solve a real problem, in a real industry, for real businesses. They are the same tools we build and deploy at RVS Media and Velocity for clients across ecommerce, marketing, recruitment, education, and beyond.
-We open source them because the best way to prove AI works is to let people use it themselves.
+We open-source them because the best way to prove AI works is to let people use it themselves.
 
 👤 Who Is This For?
 This repo is built for three types of people:
@@ -10,7 +11,13 @@ Developers and builders who want production-ready AI starting points they can fo
 Curious professionals who read The AI Shift newsletter and want to go beyond the theory — here is the code behind the thinking.
 
 🏭 Industries Covered
-IndustryTools Available📣 MarketingLinkedIn Newsletter Generator🛒 EcommerceComing soon👥 RecruitmentComing soon🎓 EducationComing soon🏥 HealthcareComing soon💰 FinanceComing soon
+IndustryTools Available
+📣 MarketingLinkedIn Newsletter Generator
+🛒 EcommerceComing soon
+👥 RecruitmentComing soon
+🎓 EducationComing soon
+🏥 HealthcareComing soon
+💰 FinanceComing soon
 
 💡 The Philosophy
 Most AI tools are built to impress developers. These are built to work for businesses.
