@@ -15,6 +15,7 @@ Curious professionals who read The AI Shift newsletter and want to go beyond the
 🏭 Industries Covered
 
 IndustryTools Available
+
 📣 MarketingLinkedIn Newsletter Generator
 🛒 EcommerceComing soon
 👥 RecruitmentComing soon
