@@ -245,7 +245,7 @@ MIT Licence — free to use, adapt, and build on. See [LICENSE](./LICENSE) for d
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=100&section=footer&fontColor=ffffff" width="100%"/>
 
-**Built with ❤️ in Birmingham, UK 🇬🇧**
+**Built with ❤️ in London, UK 🇬🇧**
 
 *"AI that knows your world"* — [The AI Shift](https://theaishift.co) × [RVS Media](https://rvsmedia.co.uk)
 
