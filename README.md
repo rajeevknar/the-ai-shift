@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://backend.velocity.com.ai/uploads/Cover_banner_1000x200_7c80eef328.png" width="100%"/>
+<img src="https://backend.velocity.com.ai/uploads/Cover_banner_1000x200_7c80eef328.png" width="100%"/><br/><br/>
 
 <!-- BADGES ROW 1 -->
 <p>
