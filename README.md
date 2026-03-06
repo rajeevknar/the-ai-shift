@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=200&section=header&text=The%20AI%20Shift&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20that%20knows%20your%20world&descAlignY=60&descSize=22&descColor=c4b5fd" width="100%"/>
+<img src="https://backend.velocity.com.ai/uploads/Cover_banner_1000x200_7c80eef328.png" width="100%"/>
 
 <!-- BADGES ROW 1 -->
 <p>
